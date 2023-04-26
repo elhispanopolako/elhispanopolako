@@ -6,8 +6,8 @@
 
 <strong>Programming Languages</strong>  :rocket:
 <br/>
-| <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/230px-HTML5_logo_and_wordmark.svg.png" width=60>|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width=60>|
-|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60>| <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width=60> |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/230px-HTML5_logo_and_wordmark.svg.png" width=60>|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width=60>|
+|:---:|:---:|:---:|:---:|
 
 <strong>Software/Frameworks</strong> 🔥 
 <li>Jira(X-ray)/Confluence/Trello ⭐⭐⭐⭐</li>
