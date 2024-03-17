@@ -10,17 +10,16 @@
 | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60>| <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width=60> |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/230px-HTML5_logo_and_wordmark.svg.png" width=60>|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width=60>|
 |:---:|:---:|:---:|:---:|
 
-<strong>Software/Frameworks</strong> 🔥 
-<li>Jira(X-ray)/Confluence/Trello ⭐⭐⭐⭐</li>
-<li>Cypress ⭐⭐⭐⭐</li>
-<li>Git ⭐⭐⭐⭐</li>
-<li>Postman/SOAP UI ⭐⭐⭐</li>
-<li>node.js ⭐⭐⭐</li>
-<li>SQL/NoSQL ⭐⭐</li>
-<li>Jenkins ⭐⭐</li>
-<li>Selenium/Rest Assurred ⭐⭐</li>
-<li>GraphQL ⭐</li>
-<li>k6 ⭐</li>
+<strong>Software/Frameworks I worked with</strong> 🔥 
+<li>Jira(X-ray)/Confluence</li>
+<li>Cypress</li>
+<li>Git</li>
+<li>Postman + newman/SOAP UI</li>
+<li>Camunda BPMN</li>
+<li>Wiremock</li>
+<li>SQL/NoSQL</li>
+<li>Jenkins</li>
+<li>Linux</li>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> To connect with me</h2></summary>
