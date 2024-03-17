@@ -1,7 +1,8 @@
 <h1>
   <p align="center">Hi, I'm Tadeusz Woźniak (elhispanopolako)!</p>
 </h1>
-<p>I work as <strong>QA Tester</strong>.<br/>Focused on Test and Process Automation <br> Love to learn something new every day.<br></p><br/>
+<p>My personal site: <a href="https://elhispanopolako.github.io/personalSite/" target="_blank">Link</a></p>
+<p>I work as <strong>QA/Low code developer</strong>.<br/>Focused on Test and Process Automation <br> Love to learn something new every day.<br></p><br/>
 💻<strong> My Tech Stack</strong>
 
 <strong>Programming Languages</strong>  :rocket:
